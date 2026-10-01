@@ -72,3 +72,4 @@ The internship task permits any relevant dataset. This dataset was designed spec
 ## Conclusion
 
 The project demonstrates a complete data-cleaning and preprocessing workflow from raw data to a numerical, standardized, ML-ready dataset.
+# ai-ml-task-1-data-cleaning-preprocessing
